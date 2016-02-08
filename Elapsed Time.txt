@@ -1,0 +1,70 @@
+Elapsed Time
+System: Mac OS X 10.9.5
+
+Serial_odd_even:
+
+n = 100		Elapsed time = 6.604195e-05 seconds
+n = 100		Elapsed time = 5.817413e-05 seconds
+n = 100		Elapsed time = 5.507469e-05 seconds
+n = 100		Elapsed time = 5.292892e-05 seconds
+n = 100		Elapsed time = 6.699562e-05 seconds
+n = 100		Elapsed time = 6.580353e-05 seconds
+Average: 6.083647e-05 seconds
+
+n = 1000		Elapsed time = 3.190041e-03 seconds
+n = 1000		Elapsed time = 3.564119e-03 seconds
+n = 1000		Elapsed time = 3.598928e-03 seconds
+n = 1000		Elapsed time = 3.560066e-03 seconds
+n = 1000		Elapsed time = 3.809929e-03 seconds
+n = 1000		Elapsed time = 3.389835e-03 seconds
+Average: 3.518819e-03 seconds
+
+n = 10000		Elapsed time = 2.888091e-01 seconds
+n = 10000		Elapsed time = 2.823422e-01 seconds
+n = 10000		Elapsed time = 2.939510e-01 seconds
+n = 10000		Elapsed time = 2.815781e-01 seconds
+n = 10000		Elapsed time = 2.836840e-01 seconds
+n = 10000		Elapsed time = 2.938969e-01 seconds
+Average: 2.873769e-01 seconds
+
+n = 100000		Elapsed time = 3.050053e+01 seconds
+n = 100000		Elapsed time = 2.996810e+01 seconds
+n = 100000		Elapsed time = 3.163161e+01 seconds
+n = 100000		Elapsed time = 3.167506e+01 seconds
+n = 100000		Elapsed time = 3.095224e+01 seconds
+n = 100000		Elapsed time = 3.107066e+01 seconds
+Average: 3.096637e+01 seconds
+
+Serial_bubble:
+
+n = 100		Elapsed time = 5.388260e-05 seconds
+n = 100		Elapsed time = 4.291534e-05 seconds
+n = 100		Elapsed time = 4.196167e-05 seconds
+n = 100		Elapsed time = 5.507469e-05 seconds
+n = 100		Elapsed time = 5.412102e-05 seconds
+n = 100		Elapsed time = 4.220009e-05 seconds
+Average: 4.835924e-05 seconds
+
+n = 1000		Elapsed time = 2.565861e-03 seconds
+n = 1000		Elapsed time = 2.999067e-03 seconds
+n = 1000		Elapsed time = 3.077030e-03 seconds
+n = 1000		Elapsed time = 3.146887e-03 seconds
+n = 1000		Elapsed time = 3.006935e-03 seconds
+n = 1000		Elapsed time = 3.159046e-03 seconds
+Average: 2.992471e-03 seconds
+
+n = 10000		Elapsed time = 3.153121e-01 seconds
+n = 10000		Elapsed time = 3.254850e-01 seconds
+n = 10000		Elapsed time = 3.144100e-01 seconds
+n = 10000		Elapsed time = 3.159559e-01 seconds
+n = 10000		Elapsed time = 3.318620e-01 seconds
+n = 10000		Elapsed time = 3.130438e-01 seconds
+Average: 3.193448e-01 seconds
+
+n = 100000		Elapsed time = 3.357373e+01 seconds
+n = 100000		Elapsed time = 3.327430e+01 seconds
+n = 100000		Elapsed time = 3.360154e+01 seconds
+n = 100000		Elapsed time = 3.433829e+01 seconds
+n = 100000		Elapsed time = 3.565270e+01 seconds
+n = 100000		Elapsed time = 3.358615e+01 seconds
+Average: 3.400445e+01 seconds
